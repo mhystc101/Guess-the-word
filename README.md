@@ -2,7 +2,7 @@
 python mini project
 
 
-TO VIEW SOURCE CODE --> left side of the screen where it says preview click on code
+TO VIEW SOURCE CODE --> Click on the README.md file, then to the left side of the screen where it says preview click on code
 
 
  (no comments because small project)
