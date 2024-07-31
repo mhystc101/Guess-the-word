@@ -5,7 +5,7 @@ python mini project
 TO VIEW SOURCE CODE --> left side of the screen where it says preview click on code
 
 
-SOURCE CODE (no comments because small project)
+ (no comments because small project)
 
 
 
