@@ -1,6 +1,6 @@
 # Guess-the-word
 python mini project
-
+To view the source code --> left side of the screen where it says preview click on code
 
 
 SOURCE CODE (no comments because small project)
